@@ -2,7 +2,7 @@ public class Fatorial {
 
        public static void main (String arg[]){
 
-             System.out.println(fatorial()+" dd ");
+             System.out.println(fatorial()+" ddeeeee ");
 
        }
 
