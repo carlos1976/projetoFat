@@ -8,7 +8,7 @@ public class Fatorial {
 
        public static int fatorial(){
      
-         return 7;
+         return 17;
 
        }
 
